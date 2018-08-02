@@ -1,0 +1,5 @@
+D:\Project\Shanze\ShanZe\ShanZe.Mapping\bin\Debug\ShanZe.Mapping.dll
+D:\Project\Shanze\ShanZe\ShanZe.Mapping\bin\Debug\ShanZe.Mapping.pdb
+D:\Project\Shanze\ShanZe\ShanZe.Mapping\obj\Debug\ShanZe.Mapping.csproj.CoreCompileInputs.cache
+D:\Project\Shanze\ShanZe\ShanZe.Mapping\obj\Debug\ShanZe.Mapping.dll
+D:\Project\Shanze\ShanZe\ShanZe.Mapping\obj\Debug\ShanZe.Mapping.pdb

@@ -1,0 +1,5 @@
+D:\Project\Shanze\ShanZe\ShanZe.Repository\bin\Debug\ShanZe.Repository.dll
+D:\Project\Shanze\ShanZe\ShanZe.Repository\bin\Debug\ShanZe.Repository.pdb
+D:\Project\Shanze\ShanZe\ShanZe.Repository\obj\Debug\ShanZe.Repository.csproj.CoreCompileInputs.cache
+D:\Project\Shanze\ShanZe\ShanZe.Repository\obj\Debug\ShanZe.Repository.dll
+D:\Project\Shanze\ShanZe\ShanZe.Repository\obj\Debug\ShanZe.Repository.pdb

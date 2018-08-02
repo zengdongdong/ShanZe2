@@ -1,0 +1,5 @@
+D:\Project\Shanze\ShanZe\ShanZe.Model\bin\Debug\ShanZe.Model.dll
+D:\Project\Shanze\ShanZe\ShanZe.Model\bin\Debug\ShanZe.Model.pdb
+D:\Project\Shanze\ShanZe\ShanZe.Model\obj\Debug\ShanZe.Model.csproj.CoreCompileInputs.cache
+D:\Project\Shanze\ShanZe\ShanZe.Model\obj\Debug\ShanZe.Model.dll
+D:\Project\Shanze\ShanZe\ShanZe.Model\obj\Debug\ShanZe.Model.pdb

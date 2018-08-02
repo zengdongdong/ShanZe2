@@ -1,0 +1,6 @@
+D:\Project\Shanze\ShanZe\ShanZe.Application\bin\Debug\ShanZe.Application.dll
+D:\Project\Shanze\ShanZe\ShanZe.Application\bin\Debug\ShanZe.Application.pdb
+D:\Project\Shanze\ShanZe\ShanZe.Application\obj\Debug\ShanZe.Application.csprojAssemblyReference.cache
+D:\Project\Shanze\ShanZe\ShanZe.Application\obj\Debug\ShanZe.Application.csproj.CoreCompileInputs.cache
+D:\Project\Shanze\ShanZe\ShanZe.Application\obj\Debug\ShanZe.Application.dll
+D:\Project\Shanze\ShanZe\ShanZe.Application\obj\Debug\ShanZe.Application.pdb
